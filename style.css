@@ -6,58 +6,58 @@ body {
 
 h1 {
     font-size: 50px;
-    max-width: 500px;
-    margin: auto;
+    /* max-width: 500px;
+    margin: auto; */
     text-align: center;
 }
 
 .heading {
     font-family: Oswald;
     color: #000033;
-    width: fit-content;
+    /* width: fit-content; */
 }
 
 #my-img {
-    display: block;
+    /* display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; */
     height: 400px;
     width: auto;
-    top: 50px;
+    /* top: 50px; */
 }
 
-div {
+/* div {
     display:block;
     width: 1000px;
     margin-right: auto;
     margin-left: auto;
-}
+} */
 
 h2 {
     font-size: 30px;
-    width: fit-content;
+    /* width: fit-content; */
 }
 
 .highlight:hover {
     color:white;
 }
 
-.me-p {
+/* .me-p {
     width: 1000px;
-}
+} */
 
 ul {
     font-family:titillium Web;
     font-size: 17px;
 }
 
-li {
+/* li {
     width: fit-content;
 }
 
 #contact-p {
     width: fit-content;
-}
+} */
 
 .logos {
     height: 100px;
